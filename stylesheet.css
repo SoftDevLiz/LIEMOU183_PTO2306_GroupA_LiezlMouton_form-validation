@@ -1,0 +1,17 @@
+.align label {
+  display: inline-block;
+  width: 70px;
+}
+div {
+  padding: 10px;
+}
+
+#button {
+  border-color: black;
+  background-color: rgb(206, 235, 255);
+  margin: 10px;
+}
+
+input[type="number"] {
+  appearance: textfield;
+}
